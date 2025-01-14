@@ -1,0 +1,10 @@
+{
+  "Profiles": {
+    "CBLJRM05.CBL": {
+      "commandName": "Project",
+      "otherSettings": {
+        "MultiOutputDebugTarget": "CBLHND02.int"
+      }
+    }
+  }
+}

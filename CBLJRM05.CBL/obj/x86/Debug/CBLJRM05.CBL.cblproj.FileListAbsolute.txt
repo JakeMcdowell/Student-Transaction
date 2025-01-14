@@ -1,0 +1,5 @@
+C:\Cobol ll\CBLJRM05.CBL\bin\x86\Debug\CBLJRM05.idy
+C:\Cobol ll\CBLJRM05.CBL\obj\x86\Debug\CBLJRM05.idy
+C:\Cobol ll\CBLJRM05.CBL\bin\x86\Debug\CBLJRM05.int
+C:\Cobol ll\CBLJRM05.CBL\bin\x86\Debug\CBLHND02.int
+C:\Cobol ll\CBLJRM05.CBL\obj\x86\Debug\CBLJRM05.int

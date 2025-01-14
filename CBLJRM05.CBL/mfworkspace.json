@@ -1,0 +1,28 @@
+{
+  "version": "4.0",
+  "cobol": {
+    "directives": {
+      "**/*": [
+        "nognt",
+        "int()",
+        "anim",
+        "max-error\u0022100\u0022",
+        "copypath($COBCPY;\u0022\u0022C:\\Program Files (x86)\\Micro Focus\\Visua\u0022\u0022)"
+      ],
+      "CBLJRM05.cbl": [
+        "nologo",
+        "int\u0022C:obj\\x86\\Debug\\CBLJRM05.int\u0022",
+        "visualstudio\u00224\u0022",
+        "noP64",
+        "anim",
+        "cobidy\u0022obj\\x86\\Debug\\\u0022",
+        "sourcetabstop\u00224\u0022",
+        "noquery",
+        "warnings\u00221\u0022",
+        "max-error\u0022100\u0022",
+        "noobj\u0022C:obj\\x86\\Debug\\CBLJRM05.int\u0022",
+        "xtraint"
+      ]
+    }
+  }
+}
